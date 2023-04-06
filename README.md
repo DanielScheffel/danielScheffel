@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielScheffel&color=red" alt="Profile views" /> </p>
 
 
-- 🔭 Atualmente frequento o curso técnico de informática da Escola Técnica Estadual Monteiro Lobato
-- 🌱 Estudo JavaScript, MySQL e JAVA
-- 📫 Você pode me contatar: scheffelolveiradaniel@gmail.com
+- 🔭 I am currently attending a technical computer course.
+- 🌱 Study JavaScript, MySQL and JAVA
+- 📫 You can contact me: scheffelolveiradaniel@gmail.com
 - 😄 Pronouns: ele/dele
 
 
