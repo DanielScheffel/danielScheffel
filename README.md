@@ -6,7 +6,7 @@
 
 
 - 🔭 I am currently attending a technical computer course.
-- 🌱 Study JavaScript, MySQL and JAVA
+- 🌱 Currently studying JavaScript, Java and MySQL
 - 📫 You can contact me: scheffelolveiradaniel@gmail.com
 - 😄 Pronouns: ele/dele
 
