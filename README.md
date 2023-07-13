@@ -8,13 +8,14 @@
 - 🔭 I am currently attending a technical computer course.
 - 🌱 Currently studying JavaScript, Java and MySQL
 - 📫 You can contact me: scheffelolveiradaniel@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: ele
 
 
 <div align="center">
   <a href="https://github.com/DanielScheffel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielScheffel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielScheffel&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vision-friendly-dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielScheffel&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielScheffel&theme=vision-friendly-dark&show_icons=true"/>
 </div>
 
 
