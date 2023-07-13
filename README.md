@@ -13,8 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/DanielScheffel">
-  <a href="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vision-friendly-dark">
-  <img height="180em" src=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vision-friendly-dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=vision-friendly-dark&hide_progress=true"/>
 </div>
 
