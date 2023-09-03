@@ -8,7 +8,7 @@
 - 🔭 I am currently attending a technical computer course.
 - 🌱 Currently studying JavaScript, Java and MySQL
 - 📫 You can contact me: scheffelolveiradaniel@gmail.com
-- 😄 Pronouns: ele
+- 💻 I'm a full-stack developer
 
 
 <div align="center">
